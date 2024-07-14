@@ -1,0 +1,3 @@
+0.3
+- Storage Casings now have connected textures if CTM is installed
+- Retextured items from Cable Tiers
