@@ -1,2 +1,7 @@
 0.5
 - Extra Disks support
+- Updated Storage Interfaces
+- Wrench renamed to Storage Wrench
+- Custom Storage Wrench model
+- Updated Cables
+- Updated translations
