@@ -3,8 +3,8 @@
 	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "cabletiers:blocks/elite_importer",
-		"particle": "cabletiers:blocks/elite_importer"
+		"1": "cabletiers:block/elite_importer",
+		"particle": "cabletiers:block/elite_importer"
 	},
 	"elements": [
 		{

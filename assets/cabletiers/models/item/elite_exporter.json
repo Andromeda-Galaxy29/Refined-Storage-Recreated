@@ -3,7 +3,7 @@
 	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "cabletiers:blocks/elite_exporter",
+		"1": "cabletiers:block/elite_exporter",
 		"cable": "refinedstorage:block/cable",
 		"particle": "cabletiers:blocks/elite_exporter"
 	},
