@@ -1,5 +1,5 @@
 {
-        "render_type": "translucent",
+	"render_type": "translucent",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "refinedstorage:block/wireless_transmitter/wireless_transmitter",
@@ -73,6 +73,7 @@
 			"name": "light",
 			"from": [5, 12, 10],
 			"to": [7, 14, 12],
+			"light_emission": 15,
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [6.5, 4, 11.5]},
 			"faces": {
 				"north": {"uv": [7, 7, 8, 8], "texture": "#cutout"},
@@ -100,6 +101,7 @@
 			"name": "light",
 			"from": [9, 12, 10],
 			"to": [11, 14, 12],
+			"light_emission": 15,
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [9.5, 4, 11.5]},
 			"faces": {
 				"north": {"uv": [7, 7, 8, 8], "texture": "#cutout"},
@@ -113,6 +115,7 @@
 		{
 			"from": [8.5, 6, 2.5],
 			"to": [13.5, 11, 7.5],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [9, 6, 2]},
 			"faces": {
 				"north": {"uv": [15.5, 2.5, 13, 5], "texture": "#cutout"},
