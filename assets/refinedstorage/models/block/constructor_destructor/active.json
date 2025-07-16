@@ -4,7 +4,7 @@
 	"textures": {
 		"particle": "refinedstorage:block/constructor/constructor",
 		"front": "refinedstorage:block/constructor/constructor",
-		"cutout": "refinedstorage:block/constructor/cutouts/connected"
+		"cutout": "refinedstorage:block/constructor/cutouts/active"
 	},
 	"elements": [
 		{

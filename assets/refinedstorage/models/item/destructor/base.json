@@ -3,7 +3,7 @@
 	"render_type": "cutout",
 	"textures": {
 		"1": "refinedstorage:block/destructor/destructor",
-		"2": "refinedstorage:block/destructor/cutouts/connected",
+		"2": "refinedstorage:block/destructor/cutouts/active",
 		"cable": "refinedstorage:block/cable",
 		"particle": "refinedstorage:block/destructor/destructor"
 	},
