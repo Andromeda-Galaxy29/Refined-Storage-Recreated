@@ -1,3 +1,2 @@
-0.6
-- Major redesign of almost all items and blocks
-- Temporarily disabled add-on support
+0.7
+- Updated to 1.21.1 and Refined Storage 2.0
